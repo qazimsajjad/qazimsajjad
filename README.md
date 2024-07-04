@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dr. Muhammad Sajjad</h1>
 <h3 align="center">Ph.D in Digital Contents Sejong University, Seoul South Korea.</h3>
 
-<img src="https://cdn.dribbble.com/users/774876/screenshots/3524887/research.gif" alt="Researcher" align="center" width=400>
+<img src="https://cdn.dribbble.com/users/774876/screenshots/3524887/research.gif" alt="Researcher" align="center" width=500>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qazimsajjad&show_icons=true&locale=en" alt="qazimsajjad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qazimsajjad&" alt="qazimsajjad" /></p>
