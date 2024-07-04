@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qazimsajjad&label=Profile%20views&color=0e75b6&style=flat" alt="qazimsajjad" /> </p>
 
-- 🔭 I’m currently working as [Associate Professor](https://www.icp.edu.pk/)
+- 🔭 I’m currently working as [Associate Professor Islamia College](https://www.icp.edu.pk/)
 
 - 🌱 I’m currently learning **Data and analytic using Deep learning, vision transformer, Diffusion models, and multimodal LLMs.**
 
