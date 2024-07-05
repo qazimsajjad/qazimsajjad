@@ -1,6 +1,8 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&color=00CC00&multiline=true&width=500&height=150&lines=Dr.+Muhammad+Sajjad;Ph.D+in+Digital+Contents+%7C+Associate+Professor+%7C+Researcher+;ML+%7C+DL+%7C+Transformers+%7C+VITs;Computer+Vision+%7C+Video Analytics" alt="Typing SVG" /></a>
 
+
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qazimsajjad&label=Profile%20views&color=0e75b6&style=flat" alt="qazimsajjad" /> </p>
 <br/>
 <a href="https://www.linkedin.com/in/dr-muhammad-sajjad-2590831b">
@@ -14,8 +16,6 @@
 <a href="https://github.com/qazimsajjad">
     <img src="https://github-stats-alpha.vercel.app/api?username=qazimsajjad&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-
-
 </p>
 
 - 🔭 I’m currently working as Associate Professor [Here](https://www.icp.edu.pk/staff_directory/detail.php?abc=82)
