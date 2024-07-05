@@ -1,6 +1,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&color=00CC00&multiline=true&width=500&height=150&lines=Dr.+Muhammad+Sajjad;Ph.D+in+Digital+Contents+%7C+Associate+Professor+%7C+Researcher+;ML+%7C+DL+%7C+Transformers+%7C+VITs;Computer+Vision+%7C+Video Analytics" alt="Typing SVG" /></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qazimsajjad&label=Profile%20views&color=0e75b6&style=flat" alt="qazimsajjad" /> </p>
 <br/>
 <a href="https://www.linkedin.com/in/dr-muhammad-sajjad-2590831b">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
