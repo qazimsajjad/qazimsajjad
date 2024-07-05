@@ -4,7 +4,6 @@
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qazimsajjad&label=Profile%20views&color=0e75b6&style=flat" alt="qazimsajjad" /> </p>
-<br/>
 <a href="https://www.linkedin.com/in/dr-muhammad-sajjad-2590831b">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
