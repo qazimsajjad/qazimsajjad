@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working as Associate Professor [Here](https://www.icp.edu.pk/staff_directory/detail.php?abc=82)
 
-- 🌱 I’m currently learning **Data and analytic using Deep learning, vision transformer, Diffusion models, and multimodal LLMs.**
+- 🌱 I’m currently learning and working on **Data and analytic using Deep learning, vision transformer, Diffusion models, and multimodal LLMs.**
 
 - 🔍 My research interests include **data and video analytics, multimedia analysis, computer vision, precision agriculture, medical image analysis, content-based retrieval, and multimodal vision-language models.**
 
