@@ -16,7 +16,7 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=qazimsajjad&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qazimsajjad&label=Profile%20views&color=0e75b6&style=flat" alt="qazimsajjad" /> </p>
+
 
 
 - 🔭 I’m currently working as Associate Professor [Here](https://www.icp.edu.pk/staff_directory/detail.php?abc=82)
