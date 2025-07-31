@@ -33,7 +33,7 @@
 ## 🤝 Let's Collaborate
 Looking for collaborations in **Deep Learning**, **Vision Transformers**, **Diffusion Models**, and **Multimodal LLMs**
 
-**Contact**: muhammad.sajjad@icp.edu.pk | muhammad.sajjad@ntnu.no
+**Contact**: muhammad.sajjad@icp.edu.pk | qazi.msajjad@gmail.com
 
 ## 🛠️ Tech Stack
 <p align="left">
